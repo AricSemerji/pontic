@@ -81,7 +81,7 @@ ios-system-keyboard/
 ί = ι + ΄
 Ό = Ο + ΄
 ό = ο + ΄
- Ύ = Υ + ΄
+Ύ = Υ + ΄
 ύ = υ + ΄
 Ώ = Ω + ΄
 ώ = ω + ΄
@@ -120,6 +120,7 @@ ios-system-keyboard/
 ά̤ = α + ΄ + ˇ
 Ό̤ = Ο + ΄ + ˇ
 ό̤ = ο + ΄ + ˇ
+
 
 ---
 
@@ -209,7 +210,7 @@ The operating principle for these above- and below-base diacritics is as follows
 
 This approach ensures Unicode-compliant encoding and consistent behavior across platforms.
 
-Ά = Α + ΄
+Ά = Α + ΄ <br>
 ά = α + ΄
 Έ = Ε + ΄
 έ = ε + ΄
