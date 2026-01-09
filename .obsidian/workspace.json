@@ -11,14 +11,12 @@
             "id": "4ccd8b9c030b36b3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "README_PNT.md",
-                "mode": "source",
-                "source": false
+                "file": "pontic_various_breve.jpg"
               },
-              "icon": "lucide-file",
-              "title": "README_PNT"
+              "icon": "lucide-image",
+              "title": "pontic_various_breve"
             }
           }
         ]
@@ -182,8 +180,8 @@
   },
   "active": "4ccd8b9c030b36b3",
   "lastOpenFiles": [
+    "README_PNT.md",
     "pontic_various_breve.jpg",
-    "pontic_letters.jpg",
-    "README_PNT.md"
+    "pontic_letters.jpg"
   ]
 }
