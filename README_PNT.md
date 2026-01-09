@@ -19,9 +19,8 @@ ios-system-keyboard/
  │   ├── pnt-longpress.yaml
  │   ├── pnt-macos.yaml
  │   ├── README.md
- ├── ├──example
- │   │  ├── pontic_letters.jpg
- └── └──└── pontic_various_breve.jpg
+ │   ├── pontic_letters.jpg
+ └── └── pontic_various_breve.jpg
 ```
 
 ## Особенности понтийского алфавита
@@ -144,9 +143,9 @@ ios-system-keyboard/
  │   ├── pnt-longpress.yaml
  │   ├── pnt-macos.yaml
  │   ├── README.md
- ├── ├──example
- │   │  ├── pontic_letters.jpg
- └── └──└── pontic_various_breve.jpg
+ ├── ├── example
+ │   ├── pontic_letters.jpg
+ └── └── pontic_various_breve.jpg
 ```
 ## Features of the Pontic Alphabet
 
@@ -156,7 +155,7 @@ The Pontic alphabet is largely comparable to the Modern Greek alphabet, but it i
 
 In Pontic, additional phonemes are attested, which results in the use of extended letter forms:
 
-![Pontic letters](/Users/sergeigurow/Desktop/pontic_letters.jpg)
+![Pontic letters](pontic_letters.jpg)
 
 The goal is to represent all such letters using Unicode combining characters, without introducing non-standard code points.
 
@@ -195,7 +194,7 @@ The goal is to represent all such letters using Unicode combining characters, wi
 In the current version, a combining breve is not planned for active implementation.
 However, examples of its usage in natural language contexts are provided for potential future projects.
 
-![Combined Breve](/Users/sergeigurow/Desktop/pontic_various_breve.jpg)
+![Combined Breve](pontic_various_breve.jpg)
 
 ## Dead Keys
 
