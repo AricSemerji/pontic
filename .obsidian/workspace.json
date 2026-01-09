@@ -11,12 +11,14 @@
             "id": "4ccd8b9c030b36b3",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "pontic_various_breve.jpg"
+                "file": "Explanation.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "pontic_various_breve"
+              "icon": "lucide-file",
+              "title": "Explanation"
             }
           }
         ]
@@ -180,8 +182,8 @@
   },
   "active": "4ccd8b9c030b36b3",
   "lastOpenFiles": [
-    "README_PNT.md",
     "pontic_various_breve.jpg",
+    "Explanation.md",
     "pontic_letters.jpg"
   ]
 }
