@@ -1,0 +1,48 @@
+displayNames:
+  en: Pontic
+  ru: Понтийский
+  pnt: Ποντιακά
+
+decimal: ','
+
+macOS:
+  primary:
+    layers:
+      default: |
+        ; ς ε ρ τ υ θ ι ο π [ ] \
+        α σ δ φ γ η ξ κ λ ΄ ' 
+        ζ χ ψ ω β ν μ , . /
+      shift: &SHIFT |
+        : ΅ Ε Ρ Τ Υ Θ Ι Ο Π { } |
+        Α Σ Δ Φ Γ Η Ξ Κ Λ ¨ " 
+        Ζ Χ Ψ Ω Β Ν Μ < > ?
+      caps: |
+        ; Σ Ε Ρ Τ Υ Θ Ι Ο Π [ ] \
+        Α Σ Δ Φ Γ Η Ξ Κ Λ ΄ ' 
+        Ζ Χ Ψ Ω Β Ν Μ , . / 
+      caps+shift: *SHIFT
+      alt: &ALT |       
+        · ― € ® ™ ¥ ­  † œ ≈ « »
+        … ß ÷ ≠ © ½ ≤ ≥ ¬ ΅ ' ¦
+        ` §   ç ±   ‘ ’ « » /
+      alt+shift: |
+        ― Β Έ Δ   Ξ     Τ   { } 
+          ρ     Ϊ ≠ § ° · : " Ζ
+        Μ     Χ Ά   Ό Ύ   ώ ? 
+      alt+caps: *ALT
+      cmd: &CMD |
+        q w e r t y u i o p [ ] \
+        a s d f g h j k l ; '
+        z x c v b n m , . /
+      cmd+shift: &CMD+SHIFT |
+        Q W E R T Y U I O P { } |
+        A S D F G H J K L : "
+        Z X C V B N M < > ?
+      cmd+alt: *CMD
+      cmd+alt+shift: *CMD+SHIFT
+
+deadKeys:
+  alt: []
+  alt+caps: []
+
+longpress: !include pnt-longpress.yaml 
